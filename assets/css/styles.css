@@ -484,7 +484,7 @@ input {
   width: 300px;
   object-fit: cover;
   filter: brightness(80%);
-  margin: 50px;
+  margin: auto 50px;
   display: block;
   object-position: center center;
 }
